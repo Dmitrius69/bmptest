@@ -151,4 +151,3 @@ void loop() {
 }
 
 
-// Подробнее: http://xrobot.by/sensors/bmp180#ixzz3wD3eJ7Qa
